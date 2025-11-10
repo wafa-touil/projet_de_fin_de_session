@@ -1,0 +1,20 @@
+# Environnement virtuel
+venv/
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Django
+/static/
+/media/
+db.sqlite3
+
+# Node
+/node_modules/
+
+# React build
+/build/
+
+# Logs
+logs/
+*.log
