@@ -1,0 +1,1 @@
+Ce dossier contient les tests d'integration qui vérifient les plus petites unités du code indépendamment.
